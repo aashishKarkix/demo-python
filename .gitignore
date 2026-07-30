@@ -1,0 +1,39 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS files
+.DS_Store
+
+# Pytest cache
+.pytest_cache/
+
+# Distribution/build files
+build/
+dist/
+*.egg-info/
+
+# Environment files
+.env
+.env.*
+
+# Local settings
+*.local
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# Logs
+*.log
